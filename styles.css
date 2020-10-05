@@ -1,0 +1,15 @@
+p {
+    font-family: Raleway;
+    font-size: 23px;
+    margin-left: 1.66%;
+    border-bottom: 2px solid lightgray;
+    width: 95%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.img-fluid {
+    height: 400px;
+    width: 95%;
+    margin: 1.66%;
+}
